@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+venv/
+./frontend/node_modules/
+./upload
+
+./frontend/nlp-hub/dist/
